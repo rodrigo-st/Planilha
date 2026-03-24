@@ -10,4 +10,4 @@ Segue a imagem:
 
 <img width="507" height="442" alt="image" src="https://github.com/user-attachments/assets/341cc9d0-886d-40b9-9aa7-e86e77e90c45" />
 
-OBS: Essa tabela não considera os impostos, mas é um cálculo que pode ser incluido futuramente. 
+OBS: Essa tabela não considera os impostos, mas é um cálculo que pode ser incluído futuramente. 
